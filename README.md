@@ -3,7 +3,7 @@ Getting Started with Create React App
 This project was bootstrapped with Create React App.
 ## Installer JSON-SERVER : npm i -g json-server
 
-## Faire tourner le back : json-server --w src/assets/db.json --port 3003
+## Faire tourner le back : json-server --w db.json --port 3003
 Available Scripts
 In the project directory, you can run:
 
