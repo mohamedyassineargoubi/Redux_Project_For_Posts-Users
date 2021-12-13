@@ -1,4 +1,4 @@
-# Redux_Project_For_Posts-Users
+# Redux_Project_For_Posts-Users : Project CRUD avec REDUX
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 ## Installer JSON-SERVER : npm i -g json-server
